@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=DESKTOP-RDSMTVI\SQL2016E;Database=PosDB;Integrated Security=SSPI;TrustServerCertificate=True;persist security info=True;Connect Timeout=30" Microsoft.EntityFrameworkCore.SqlServer -Context PosContext -ContextDir Contexto -OutputDir Entidades -DataAnnotations -NoPluralize -Force
